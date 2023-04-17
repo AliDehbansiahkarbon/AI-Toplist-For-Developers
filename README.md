@@ -11,4 +11,10 @@ AI | Address | Public API |
 | Chatsonic | https://writesonic.com/chat | `There is` |
 | perplexity | https://www.perplexity.ai | `N/A` |
 | blackbox | https://www.useblackbox.io/search | `N/A` |
+| Character.ai | https://beta.character.ai | `N/A` |
 | Poe | https://poe.com | `N/A` |
+| ai21 | https://www.ai21.com | `There is` |
+| nat.dev | https://nat.dev/compare | `N/A` |
+
+
+
