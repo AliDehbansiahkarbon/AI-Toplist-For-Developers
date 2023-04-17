@@ -1,7 +1,7 @@
 # ai-toplist-for-delphi
 A list of ai services that support the Delphi codes. 
 
-## list
+## Main list for Delphi
 AI | Address | Public API |
 |---|---|---|
 | ChatGPT | https://chat.openai.com | `There is` |
@@ -15,6 +15,14 @@ AI | Address | Public API |
 | Poe | https://poe.com | `N/A` |
 | ai21 | https://www.ai21.com | `There is` |
 | nat.dev | https://nat.dev/compare | `N/A` |
+
+
+## Encyclopedia
+Name | Address |
+|---|---|
+| aicyclopedia | https://www.aicyclopedia.com |
+| aitoptools | https://aitoptools.com |
+| theresanaiforthat | https://theresanaiforthat.com |
 
 
 
