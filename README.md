@@ -1,7 +1,14 @@
-# ai-toplist-for-delphi
-A list of ai services that support the Delphi codes. 
+# AI Toplist
 
-## Main list for Delphi
+## Encyclopedia
+Name | Address |
+|---|---|
+| aicyclopedia | https://www.aicyclopedia.com |
+| aitoptools | https://aitoptools.com |
+| theresanaiforthat | https://theresanaiforthat.com |
+
+
+## A list of ai services that support the Delphi codes.
 AI | Address | Public API |
 |---|---|---|
 | ChatGPT | https://chat.openai.com | `There is` |
@@ -17,12 +24,7 @@ AI | Address | Public API |
 | nat.dev | https://nat.dev/compare | `N/A` |
 
 
-## Encyclopedia
-Name | Address |
-|---|---|
-| aicyclopedia | https://www.aicyclopedia.com |
-| aitoptools | https://aitoptools.com |
-| theresanaiforthat | https://theresanaiforthat.com |
+
 
 
 
