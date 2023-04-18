@@ -22,6 +22,8 @@ AI | Address | Public API |
 | Poe | https://poe.com | `N/A` |
 | ai21 | https://www.ai21.com | `There is` |
 | nat.dev | https://nat.dev/compare | `N/A` |
+| Bing | https://bing.com | `N/A` |
+| Bard | https://bard.google.com | `N/A` |
 
 
 
