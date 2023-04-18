@@ -8,7 +8,7 @@ Name | Address |
 | theresanaiforthat | https://theresanaiforthat.com |
 
 
-## A list of ai services that support the Delphi codes.
+## Support Delphi code.
 AI | Address | Public API |
 |---|---|---|
 | ChatGPT | https://chat.openai.com | `There is` |
