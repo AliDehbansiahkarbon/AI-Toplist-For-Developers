@@ -13,7 +13,7 @@ AI | Address | Public API |
 |---|---|---|
 | ChatGPT | https://chat.openai.com | `There is` |
 | FreeGPT | https://freegpt.one | `N/A` |
-| BaiChat | https://chatbot.theb.ai | `N/A` |
+| BAIChat | https://chatbot.theb.ai | `N/A` |
 | YouChat | https://you.com/code | `There is` |
 | Chatsonic | https://writesonic.com/chat | `There is` |
 | PerPlexity | https://www.perplexity.ai | `N/A` |
