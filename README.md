@@ -26,6 +26,16 @@ AI | Address | Public API |
 | Bard | https://bard.google.com | `N/A` |
 | AgentGPT | https://agentgpt.reworkd.ai | `N/A` |
 
-
+## AI Powered Search Engines.
+Name | Address |
+|---|---|
+| YouChat | you.com |
+| Andisearch | https://andisearch.com |
+| Phind | https://www.phind.com |
+| Metaphor | https://metaphor.systems |
+| Neeva | https://neeva.com |
+| Perplexity | https://www.perplexity.ai |
+| Poe | https://poe.com |
+| UseBlackbox.io | https://www.useblackbox.io/search |
 
 
