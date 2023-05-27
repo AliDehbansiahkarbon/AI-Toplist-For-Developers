@@ -29,7 +29,7 @@ AI | Address | Public API |
 ## AI Powered Search Engines.
 Name | Address |
 |---|---|
-| YouChat | you.com |
+| You Search | https://you.com |
 | Andisearch | https://andisearch.com |
 | Phind | https://www.phind.com |
 | Metaphor | https://metaphor.systems |
