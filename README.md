@@ -9,7 +9,7 @@ Name | Address |
 | Lets View| https://letsview.com/ai-tools# |
 
 
-## Support Delphi code.
+## Coding
 AI | Address | Public API |
 |---|---|---|
 | ChatGPT | https://chat.openai.com | `There is` |
