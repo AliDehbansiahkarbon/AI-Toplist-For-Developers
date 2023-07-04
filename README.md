@@ -27,7 +27,7 @@ AI | Address | Public API |
 | Bard | https://bard.google.com | `N/A` |
 | AgentGPT | https://agentgpt.reworkd.ai | `N/A` |
 
-## AI Powered Search Engines.
+## AI-Powered Search Engines.
 Name | Address |
 |---|---|
 | You Search | https://you.com |
@@ -38,5 +38,18 @@ Name | Address |
 | Perplexity | https://www.perplexity.ai |
 | Poe | https://poe.com |
 | UseBlackbox.io | https://www.useblackbox.io/search |
+
+## SQL
+Name | Address |
+|---|---|
+| SqlChat | https://www.sqlchat.ai |
+| aihelperbot | https://aihelperbot.com/app |
+| querycraft | https://www.querycraft.io |
+| loofi | https://loofi.dev |
+| buildnship | https://sqlease.buildnship.in/?ref=theresanaiforthat |
+| howtoprisma | https://gpt.howtoprisma.com/?ref=theresanaiforthat |
+| blazesql | https://www.blazesql.com/app |
+| sqltroughai | https://sqltroughai.com/Home |
+| sqlgenius | https://sqlgenius.app |
 
 
