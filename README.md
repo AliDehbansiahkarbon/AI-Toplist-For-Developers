@@ -1,4 +1,4 @@
-# AI Toplist
+# AI Toplist for Developers(Encyclopedia, Coding, Search Engines, SQL, etc...)
 
 ## Encyclopedia
 Name | Address |
