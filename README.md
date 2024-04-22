@@ -52,4 +52,10 @@ Name | Address |
 | sqltroughai | https://sqltroughai.com/Home |
 | sqlgenius | https://sqlgenius.app |
 
+## Offline GPT-Like Server
+Name | Address |
+|---|---|
+| Ollama | https://ollama.com |
+| Jan | https://jan.ai |
+
 
