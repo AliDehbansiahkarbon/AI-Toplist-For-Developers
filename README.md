@@ -58,4 +58,11 @@ Name | Address |
 | Ollama | https://ollama.com |
 | Jan | https://jan.ai |
 
+## Model creation
+Name | Address |
+|---|---|
+| DelphAI | https://github.com/fgrandini/DelphAI |
+
+
+
 
